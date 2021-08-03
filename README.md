@@ -15,4 +15,4 @@
 & driving insights from the data
 </p>
 
-<h4>Note: Dataset used in this repository contains DUMMY values and shouldn't be used to draw parallels in real world!</h4>
+<h4>Note: Dataset used in this repository contains DUMMY values and shouldn't be used to draw parallels to the real world!</h4>
