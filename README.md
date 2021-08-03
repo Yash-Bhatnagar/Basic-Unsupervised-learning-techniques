@@ -12,7 +12,7 @@
 <li>Perform cluster analysis</li>
 <li>Compare the performances of both models</li>
 </ul>
-And driving insights from the data
+& driving insights from the data
 </p>
 
 <h4>Note: Dataset used in this repository contains DUMMY values and shouldn't be used to draw parallels in real world!</h4>
